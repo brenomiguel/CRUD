@@ -1,3 +1,3 @@
 # CRUD
 
-(:  https://brenomiguel.github.io/brenomiguel/CRUD/index.php
+(:  https://brenomiguel.github.io/CRUD/index.php
